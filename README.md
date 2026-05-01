@@ -19,7 +19,10 @@
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> يا نور عيني في سكون الليل
+> روحي تنادي طيفك الجميل
+> قلبي يذوب في بحار الشوق
+> ودربي إليك بالهوى يميل
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)
